@@ -5,10 +5,10 @@ based on [Ben Awad's](https://www.youtube.com/watch?v=I6ypD7qv3Z8) Full Stack tu
 - React
 - TypeScript
 - GraphQL
-- URQL/Apollo
+- Apollo
 - Node.js
 - PostgreSQL
-- MikroORM/TypeORM
+- TypeORM
 - Redis
 - Next.js
 - TypeGraphQL
